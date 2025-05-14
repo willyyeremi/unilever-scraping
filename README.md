@@ -1,5 +1,5 @@
-# Unilever Scrapper
-This is the main repository. This project divided into multiple smaller repositories to make an easier manajement.
+# Unilever Scraping
+This is the main repository. This project is divided into multiple smaller repositories for easier management.
 
 ## Database
 https://github.com/willyyeremi/unilever-scrapper-database
