@@ -6,3 +6,6 @@ https://github.com/willyyeremi/unilever-scrapper-database
 
 ## Pipeline
 https://github.com/willyyeremi/unilever-scrapper-etl
+
+## REST API
+https://github.com/willyyeremi/unilever-scrapper-rest-api
