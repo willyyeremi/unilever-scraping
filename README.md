@@ -8,4 +8,4 @@ https://github.com/willyyeremi/unilever-scraping-database
 https://github.com/willyyeremi/unilever-scraping-etl
 
 ## REST API
-https://github.com/willyyeremi/unilever-scraping-rest-api
+https://github.com/willyyeremi/unilever-scraping-project-rest-api
